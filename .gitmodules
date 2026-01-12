@@ -1,0 +1,4 @@
+[submodule "am-zig"]
+	path = am-zig
+	url = git@github.com:CodeWenjiu/am-zig
+	branch = main
