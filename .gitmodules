@@ -2,3 +2,7 @@
 	path = am-zig
 	url = git@github.com:CodeWenjiu/am-zig
 	branch = main
+[submodule "remu"]
+	path = remu
+	url = git@github.com:CodeWenjiu/REMU.git
+	branch = master
