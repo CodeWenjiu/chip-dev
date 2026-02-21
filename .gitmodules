@@ -6,3 +6,6 @@
 	path = remu
 	url = git@github.com:CodeWenjiu/REMU.git
 	branch = master
+[submodule "nzea"]
+	path = nzea
+	url = git@github.com:CodeWenjiu/NZEA.git
